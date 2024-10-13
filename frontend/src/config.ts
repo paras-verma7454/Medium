@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://backend.parasverma7454.workers.dev/api/v1"
