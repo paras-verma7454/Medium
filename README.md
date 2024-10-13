@@ -16,7 +16,7 @@ This is a clone of Medium, a blogging platform, built using modern web technolog
 The repository is divided into three main folders:
 
 ### 1. **Backend**
-   - Contains the server-side code that handles blog fetching, user authentication, blog publishing, PostgreSQL and other backend logic.
+   - Contains the server-side code that handles blog fetching, user authentication, blog publishing, PostgreSQL,Prisma ORM and other backend logic.
    - Powered by [Hono](https://hono.dev/), a fast and lightweight web framework for Cloudflare Workers.
    - Uses JWT for secure authentication.
 
@@ -67,8 +67,10 @@ The repository is divided into three main folders:
 ## Technologies Used
 
 - **Frontend**: React, TypeScript
-- **Backend**: Hono (for Cloudflare Workers), TypeScript, JWT
+- **Backend**: Hono (for Cloudflare Workers), TypeScript, JSON Web Tokens (JWT)
 - **Serverless**: Cloudflare Workers
+- **Database**: PostgreSQL
+- **ORM**: Prisma ORM
 - **Validation**: Zod (used in both frontend and backend)
 - **Custom NPM Library**: Created for Zod validation logic
 
