@@ -16,7 +16,7 @@ This is a clone of Medium, a blogging platform, built using modern web technolog
 The repository is divided into three main folders:
 
 ### 1. **Backend**
-   - Contains the server-side code that handles blog fetching, user authentication, blog publishing, and other backend logic.
+   - Contains the server-side code that handles blog fetching, user authentication, blog publishing, PostgreSQL and other backend logic.
    - Powered by [Hono](https://hono.dev/), a fast and lightweight web framework for Cloudflare Workers.
    - Uses JWT for secure authentication.
 
