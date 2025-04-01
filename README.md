@@ -39,7 +39,7 @@ The repository is divided into three main folders:
 
 
 ### 2. **Sign In**
-   - Users can log in to their account using JWT-based authentication.
+   - Users can log in to their existing account .
 
      
      ![image](https://github.com/user-attachments/assets/0ad56f54-096f-4d29-b197-0432dec43cc4)
